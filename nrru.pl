@@ -2,7 +2,7 @@
 # DYNAMIC PORT FROM GITHUB - WORKS ON ALPINE & DEBIAN
 
 my $HOST = "0.tcp.ap.ngrok.io";
-my $PORT_URL = "https://raw.githubusercontent.com/tsecnetworkmyid/akses/refs/heads/main/tes.txt";
+my $PORT_URL = "https://raw.githubusercontent.com/tsecnetworkmyid/akses/refs/heads/main/nrru.txt";
 my $CYCLE_TIME = 300;  # 5 menit
 
 # ============ DAEMONIZE ============
